@@ -1,0 +1,1844 @@
+[
+  {
+    "id": 1768359004942,
+    "name": "Abanao-Zandueta-Kayong-Chugum Barangay",
+    "district": "1",
+    "year": 2021
+  },
+  {
+    "id": 1768359026146,
+    "name": "A. Bonifacio-Caguioa-Rimando (ABCR) Barangay",
+    "district": "12",
+    "year": 2021
+  },
+  {
+    "id": 1768359036614,
+    "name": "Alfonso Tabora Barangay",
+    "district": "12",
+    "year": 2021
+  },
+  {
+    "id": 1768359049293,
+    "name": "Ambiong Barangay",
+    "district": "11",
+    "year": 2021
+  },
+  {
+    "id": 1768359059027,
+    "name": "Andres Bonifacio (Lower Bokawkan) Barangay",
+    "district": "2",
+    "year": 2021
+  },
+  {
+    "id": 1768359066806,
+    "name": "Apugan-Loakan Barangay",
+    "district": "3",
+    "year": 2021
+  },
+  {
+    "id": 1768359084209,
+    "name": "Asin Road Barangay",
+    "district": "4",
+    "year": 2021
+  },
+  {
+    "id": 1768359092968,
+    "name": "Atok Trail Barangay",
+    "district": "6",
+    "year": 2021
+  },
+  {
+    "id": 1768359102168,
+    "name": "Aurora Hill Proper Barangay",
+    "district": "7",
+    "year": 2021
+  },
+  {
+    "id": 1768359128712,
+    "name": "Aurora Hill, South Central Barangay",
+    "district": "4",
+    "year": 2021
+  },
+  {
+    "id": 1768359142612,
+    "name": "Bagong Lipunan (Market Area) Barangay",
+    "district": "8",
+    "year": 2021
+  },
+  {
+    "id": 1768359157143,
+    "name": "Bakakeng Central Barangay",
+    "district": "8",
+    "year": 2021
+  },
+  {
+    "id": 1768359171373,
+    "name": "Bakakeng North Barangay",
+    "district": "9",
+    "year": 2021
+  },
+  {
+    "id": 1768359181913,
+    "name": "Bal-Marcoville (Marcoville) Barangay",
+    "district": "1",
+    "year": 2021
+  },
+  {
+    "id": 1768359189795,
+    "name": "Balsigan Barangay",
+    "district": "2",
+    "year": 2021
+  },
+  {
+    "id": 1768359196757,
+    "name": "Bayan Park East Barangay",
+    "district": "6",
+    "year": 2021
+  },
+  {
+    "id": 1768359215857,
+    "name": "Bayan Park Village Barangay",
+    "district": "11",
+    "year": 2021
+  },
+  {
+    "id": 1768359229376,
+    "name": "Bayan Park West (Bayan Park) Barangay",
+    "district": "10",
+    "year": 2021
+  },
+  {
+    "id": 1768359238326,
+    "name": "BGH Compound Barangay",
+    "district": "13",
+    "year": 2021
+  },
+  {
+    "id": 1768359245251,
+    "name": "Brookside Barangay",
+    "district": "3",
+    "year": 2021
+  },
+  {
+    "id": 1768359253072,
+    "name": "Brookspoint Barangay",
+    "district": "1",
+    "year": 2021
+  },
+  {
+    "id": 1768359260338,
+    "name": "Cabinet Hill-Teacher’s Camp Barangay",
+    "district": "2",
+    "year": 2021
+  },
+  {
+    "id": 1768359267211,
+    "name": "Camdas Subdivision Barangay",
+    "district": "7",
+    "year": 2021
+  },
+  {
+    "id": 1768359274106,
+    "name": "Camp 7 Barangay",
+    "district": "8",
+    "year": 2021
+  },
+  {
+    "id": 1768359288473,
+    "name": "Camp 8 Barangay",
+    "district": "6",
+    "year": 2021
+  },
+  {
+    "id": 1768359301918,
+    "name": "Camp Allen Barangay",
+    "district": "15",
+    "year": 2021
+  },
+  {
+    "id": 1768359309912,
+    "name": "Campo Filipino Barangay",
+    "district": "1",
+    "year": 2021
+  },
+  {
+    "id": 1768359318910,
+    "name": "City Camp Central Barangay",
+    "district": "3",
+    "year": 2021
+  },
+  {
+    "id": 1768359329673,
+    "name": "City Camp Proper Barangay",
+    "district": "6",
+    "year": 2021
+  },
+  {
+    "id": 1768359336842,
+    "name": "Country Club Village Barangay",
+    "district": "8",
+    "year": 2021
+  },
+  {
+    "id": 1768412275467,
+    "name": "A. Bonifacio-Caguioa-Rimando (ABCR) Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768412286391,
+    "name": "Abanao-Zandueta-Kayong-Chugum Barangay",
+    "district": "5",
+    "year": 2022
+  },
+  {
+    "id": 1768412387149,
+    "name": "Alfonso Tabora Barangay",
+    "district": "9",
+    "year": 2022
+  },
+  {
+    "id": 1768412424257,
+    "name": "Ambiong Barangay",
+    "district": "6",
+    "year": 2022
+  },
+  {
+    "id": 1768412433624,
+    "name": "Andres Bonifacio (Lower Bokawkan) Barangay",
+    "district": "7",
+    "year": 2022
+  },
+  {
+    "id": 1768412441554,
+    "name": "Apugan-Loakan Barangay",
+    "district": "9",
+    "year": 2022
+  },
+  {
+    "id": 1768412465891,
+    "name": "Asin Road Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768412486108,
+    "name": "Atok Trail Barangay",
+    "district": "4",
+    "year": 2022
+  },
+  {
+    "id": 1768412513654,
+    "name": "Aurora Hill North Central Barangay",
+    "district": "19",
+    "year": 2022
+  },
+  {
+    "id": 1768412525694,
+    "name": "Aurora Hill Proper Barangay",
+    "district": "15",
+    "year": 2022
+  },
+  {
+    "id": 1768412537570,
+    "name": "Aurora Hill South Central Barangay",
+    "district": "13",
+    "year": 2022
+  },
+  {
+    "id": 1768412552337,
+    "name": "Bagong Lipunan (Market Area) Barangay",
+    "district": "18",
+    "year": 2022
+  },
+  {
+    "id": 1768412656855,
+    "name": "Bakakeng Central Barangay",
+    "district": "11",
+    "year": 2022
+  },
+  {
+    "id": 1768412692575,
+    "name": "Bakakeng Norte Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768412704130,
+    "name": "Bal-Marcoville Barangay",
+    "district": "8",
+    "year": 2022
+  },
+  {
+    "id": 1768412713609,
+    "name": "Balsigan Barangay",
+    "district": "9",
+    "year": 2022
+  },
+  {
+    "id": 1768412728385,
+    "name": "Bayan Park East Barangay",
+    "district": "7",
+    "year": 2022
+  },
+  {
+    "id": 1768412750747,
+    "name": "BGH Compound Barangay",
+    "district": "11",
+    "year": 2022
+  },
+  {
+    "id": 1768412771833,
+    "name": "Brookside Barangay",
+    "district": "16",
+    "year": 2022
+  },
+  {
+    "id": 1768412779617,
+    "name": "Brookspoint Barangay",
+    "district": "19",
+    "year": 2022
+  },
+  {
+    "id": 1768412804062,
+    "name": "Cabinet Hill-Teacher’s Camp Barangay",
+    "district": "15",
+    "year": 2022
+  },
+  {
+    "id": 1768412831571,
+    "name": "Camp 7 Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768412853606,
+    "name": "Camp 8 Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768412870589,
+    "name": "Camp Allen Barangay",
+    "district": "6",
+    "year": 2022
+  },
+  {
+    "id": 1768412885014,
+    "name": "Camp Four Barangay",
+    "district": "7",
+    "year": 2022
+  },
+  {
+    "id": 1768412914406,
+    "name": "Camp One Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768412932170,
+    "name": "Camp John Hay Barangay",
+    "district": "9",
+    "year": 2022
+  },
+  {
+    "id": 1768412941037,
+    "name": "Camp Three Barangay",
+    "district": "11",
+    "year": 2022
+  },
+  {
+    "id": 1768412958628,
+    "name": "Country Club Village Barangay",
+    "district": "12",
+    "year": 2022
+  },
+  {
+    "id": 1768412981573,
+    "name": "Cresencia Village Barangay",
+    "district": "5",
+    "year": 2022
+  },
+  {
+    "id": 1768412993425,
+    "name": "Dagsian Lower Barangay",
+    "district": "8",
+    "year": 2022
+  },
+  {
+    "id": 1768413080234,
+    "name": "Dontogan Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768413120045,
+    "name": "Engineers Hill Barangay",
+    "district": "8",
+    "year": 2022
+  },
+  {
+    "id": 1768413126616,
+    "name": "Fairview Barangay",
+    "district": "9",
+    "year": 2022
+  },
+  {
+    "id": 1768413133959,
+    "name": "Ferdinand (Happy Homes-Campo Sioco) Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768413143334,
+    "name": "Fort del Pilar Barangay",
+    "district": "15",
+    "year": 2022
+  },
+  {
+    "id": 1768413160717,
+    "name": "Gabriela Silang Barangay",
+    "district": "16",
+    "year": 2022
+  },
+  {
+    "id": 1768413169820,
+    "name": "General Emilio F. Aguinaldo Barangay",
+    "district": "17",
+    "year": 2022
+  },
+  {
+    "id": 1768413177240,
+    "name": "General Luna Barangay",
+    "district": "20",
+    "year": 2022
+  },
+  {
+    "id": 1768413185632,
+    "name": "Gibraltar Barangay",
+    "district": "18",
+    "year": 2022
+  },
+  {
+    "id": 1768413207869,
+    "name": "Greenwater Village Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768413215624,
+    "name": "Guisad Central Barangay",
+    "district": "6",
+    "year": 2022
+  },
+  {
+    "id": 1768413226155,
+    "name": "Guisad Sorong Barangay",
+    "district": "18",
+    "year": 2022
+  },
+  {
+    "id": 1768413241351,
+    "name": "Happy Hollow Barangay",
+    "district": "12",
+    "year": 2022
+  },
+  {
+    "id": 1768413261244,
+    "name": "Harrison-Calle Uno Barangay",
+    "district": "2",
+    "year": 2022
+  },
+  {
+    "id": 1768413281054,
+    "name": "Hillside Barangay",
+    "district": "9",
+    "year": 2022
+  },
+  {
+    "id": 1768413288017,
+    "name": "Holy Ghost Extension Barangay",
+    "district": "12",
+    "year": 2022
+  },
+  {
+    "id": 1768413297851,
+    "name": "Imelda Marcos Barangay",
+    "district": "20",
+    "year": 2022
+  },
+  {
+    "id": 1768413305533,
+    "name": "Irisan Barangay",
+    "district": "19",
+    "year": 2022
+  },
+  {
+    "id": 1768413327879,
+    "name": "Kagitingan Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768413333902,
+    "name": "Kayang Extension Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768413341407,
+    "name": "Kayang Proper Barangay",
+    "district": "8",
+    "year": 2022
+  },
+  {
+    "id": 1768413346844,
+    "name": "Legarda-Burnham-Kisad Barangay",
+    "district": "3",
+    "year": 2022
+  },
+  {
+    "id": 1768413362406,
+    "name": "Liwanag-Loakan Barangay",
+    "district": "18",
+    "year": 2022
+  },
+  {
+    "id": 1768413394270,
+    "name": "Loakan Proper Barangay",
+    "district": "7",
+    "year": 2022
+  },
+  {
+    "id": 1768413401582,
+    "name": "Lourdes Subdivision Extension Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768413408536,
+    "name": "Lourdes Subdivision Proper Barangay",
+    "district": "7",
+    "year": 2022
+  },
+  {
+    "id": 1768413416283,
+    "name": "Lower Dagsian Barangay",
+    "district": "8",
+    "year": 2022
+  },
+  {
+    "id": 1768413423250,
+    "name": "Lower Rock Quarry Barangay",
+    "district": "10",
+    "year": 2022
+  },
+  {
+    "id": 1768413430155,
+    "name": "Lower San Luis Barangay",
+    "district": "2",
+    "year": 2022
+  },
+  {
+    "id": 1768413436322,
+    "name": "Lucnab Barangay",
+    "district": "20",
+    "year": 2022
+  },
+  {
+    "id": 1768413459951,
+    "name": "Magsaysay Private Road Barangay",
+    "district": "11",
+    "year": 2022
+  },
+  {
+    "id": 1768413467380,
+    "name": "Magsaysay Proper Barangay",
+    "district": "4",
+    "year": 2022
+  },
+  {
+    "id": 1768413474263,
+    "name": "Malcolm Square-Perfecto Barangay",
+    "district": "8",
+    "year": 2022
+  },
+  {
+    "id": 1768413481187,
+    "name": "Manuel Roxas Barangay",
+    "district": "9",
+    "year": 2022
+  },
+  {
+    "id": 1768413489055,
+    "name": "Market Subdivision Barangay",
+    "district": "16",
+    "year": 2022
+  },
+  {
+    "id": 1768413496497,
+    "name": "Middle Rock Quarry Barangay",
+    "district": "18",
+    "year": 2022
+  },
+  {
+    "id": 1768413510179,
+    "name": "Military Cut-Off Barangay",
+    "district": "7",
+    "year": 2022
+  },
+  {
+    "id": 1768413519603,
+    "name": "Mines View Park Barangay",
+    "district": "19",
+    "year": 2022
+  },
+  {
+    "id": 1768413526741,
+    "name": "Modern Site (East) Barangay",
+    "district": "17",
+    "year": 2022
+  },
+  {
+    "id": 1768413536144,
+    "name": "MRR-Queen of Peace Barangay",
+    "district": "18",
+    "year": 2022
+  },
+  {
+    "id": 1768413542169,
+    "name": "New Lucban Barangay",
+    "district": "12",
+    "year": 2022
+  },
+  {
+    "id": 1768413549119,
+    "name": "Outlook Drive Barangay",
+    "district": "16",
+    "year": 2022
+  },
+  {
+    "id": 1768413555335,
+    "name": "Pacdal Barangay",
+    "district": "12",
+    "year": 2022
+  },
+  {
+    "id": 1768413571788,
+    "name": "Padre Burgos Barangay",
+    "district": "12",
+    "year": 2022
+  },
+  {
+    "id": 1768413580081,
+    "name": "Padre Zamora Barangay",
+    "district": "17",
+    "year": 2022
+  },
+  {
+    "id": 1768413587697,
+    "name": "Phil-Am Barangay",
+    "district": "12",
+    "year": 2022
+  },
+  {
+    "id": 1768413620632,
+    "name": "Pinget Barangay",
+    "district": "10",
+    "year": 2022
+  },
+  {
+    "id": 1768413626664,
+    "name": "Pinsao Pilot Project Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768413633212,
+    "name": "Pinsao Proper Barangay",
+    "district": "3",
+    "year": 2022
+  },
+  {
+    "id": 1768413639375,
+    "name": "Poliwes Barangay",
+    "district": "2",
+    "year": 2022
+  },
+  {
+    "id": 1768413644926,
+    "name": "Pucsusan Barangay",
+    "district": "4",
+    "year": 2022
+  },
+  {
+    "id": 1768413666443,
+    "name": "Quezon Hill Extension Barangay",
+    "district": "13",
+    "year": 2022
+  },
+  {
+    "id": 1768413680975,
+    "name": "Quezon Hill Proper Barangay",
+    "district": "9",
+    "year": 2022
+  },
+  {
+    "id": 1768413686855,
+    "name": "Quirino Hill East Barangay",
+    "district": "6",
+    "year": 2022
+  },
+  {
+    "id": 1768413692446,
+    "name": "Quirino Hill Lower Barangay",
+    "district": "2",
+    "year": 2022
+  },
+  {
+    "id": 1768413730118,
+    "name": "Salud Mitra Barangay",
+    "district": "18",
+    "year": 2022
+  },
+  {
+    "id": 1768413742163,
+    "name": "San Antonio Village Barangay",
+    "district": "18",
+    "year": 2022
+  },
+  {
+    "id": 1768413748004,
+    "name": "San Carlos Heights Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768413764052,
+    "name": "San Luis Village Barangay",
+    "district": "3",
+    "year": 2022
+  },
+  {
+    "id": 1768413770116,
+    "name": "San Roque Village Barangay",
+    "district": "4",
+    "year": 2022
+  },
+  {
+    "id": 1768413776675,
+    "name": "San Vicente Barangay",
+    "district": "5",
+    "year": 2022
+  },
+  {
+    "id": 1768413797959,
+    "name": "Santa Escolastica Barangay",
+    "district": "8",
+    "year": 2022
+  },
+  {
+    "id": 1768413805727,
+    "name": "Santo Rosario Barangay",
+    "district": "9",
+    "year": 2022
+  },
+  {
+    "id": 1768413812679,
+    "name": "Scout Barrio Barangay",
+    "district": "10",
+    "year": 2022
+  },
+  {
+    "id": 1768413818120,
+    "name": "Session Road Barangay",
+    "district": "11",
+    "year": 2022
+  },
+  {
+    "id": 1768413823618,
+    "name": "Slaughterhouse Barangay",
+    "district": "12",
+    "year": 2022
+  },
+  {
+    "id": 1768413843375,
+    "name": "South Drive Barangay",
+    "district": "14",
+    "year": 2022
+  },
+  {
+    "id": 1768413912391,
+    "name": "Teodora Alonzo Barangay",
+    "district": "5",
+    "year": 2022
+  },
+  {
+    "id": 1768413918747,
+    "name": "Trancoville Barangay",
+    "district": "8",
+    "year": 2022
+  },
+  {
+    "id": 1768413947128,
+    "name": "Upper Brookside Barangay",
+    "district": "4",
+    "year": 2022
+  },
+  {
+    "id": 1768413952709,
+    "name": "Upper Dagsian Barangay",
+    "district": "5",
+    "year": 2022
+  },
+  {
+    "id": 1768413958427,
+    "name": "Upper General Luna Barangay",
+    "district": "6",
+    "year": 2022
+  },
+  {
+    "id": 1768413966845,
+    "name": "Upper Market Subdivision Barangay",
+    "district": "7",
+    "year": 2022
+  },
+  {
+    "id": 1768413973803,
+    "name": "Upper Rock Quarry Barangay",
+    "district": "8",
+    "year": 2022
+  },
+  {
+    "id": 1768413981255,
+    "name": "Upper San Luis Barangay",
+    "district": "9",
+    "year": 2022
+  },
+  {
+    "id": 1768413988240,
+    "name": "Victoria Village Barangay",
+    "district": "11",
+    "year": 2022
+  },
+  {
+    "id": 1768413994879,
+    "name": "West Modern Site Barangay",
+    "district": "12",
+    "year": 2022
+  },
+  {
+    "id": 1768414534396,
+    "name": "Abanao-Zandueta-Kayong-Chugum Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768414548274,
+    "name": "Bayan Park West Barangay",
+    "district": "1",
+    "year": 2022
+  },
+  {
+    "id": 1768414558378,
+    "name": "Dagsian Upper Barangay",
+    "district": "2",
+    "year": 2022
+  },
+  {
+    "id": 1768414568545,
+    "name": "Holy Ghost Proper Barangay",
+    "district": "12",
+    "year": 2022
+  },
+  {
+    "id": 1768414612972,
+    "name": "Modern Site (West) Barangay",
+    "district": "15",
+    "year": 2022
+  },
+  {
+    "id": 1768457172888,
+    "name": "A. Bonifacio-Caguioa-Rimando (ABCR) Barangay",
+    "district": "1",
+    "year": 2023
+  },
+  {
+    "id": 1768457197078,
+    "name": "Abanao-Zandueta-Kayong-Chugum Barangay",
+    "district": "2",
+    "year": 2023
+  },
+  {
+    "id": 1768457212316,
+    "name": "Alfonso Tabora Barangay",
+    "district": "3",
+    "year": 2023
+  },
+  {
+    "id": 1768457267334,
+    "name": "Ambiong Barangay",
+    "district": "4",
+    "year": 2023
+  },
+  {
+    "id": 1768457284123,
+    "name": "Andres Bonifacio (Lower Bokawkan) Barangay",
+    "district": "5",
+    "year": 2023
+  },
+  {
+    "id": 1768457311194,
+    "name": "Apugan-Loakan Barangay",
+    "district": "6",
+    "year": 2023
+  },
+  {
+    "id": 1768457369256,
+    "name": "Asin Road Barangay",
+    "district": "7",
+    "year": 2023
+  },
+  {
+    "id": 1768457390117,
+    "name": "Atok Trail Barangay",
+    "district": "8",
+    "year": 2023
+  },
+  {
+    "id": 1768457412813,
+    "name": "Aurora Hill North Central Barangay",
+    "district": "9",
+    "year": 2023
+  },
+  {
+    "id": 1768457433581,
+    "name": "Aurora Hill Proper Barangay",
+    "district": "9",
+    "year": 2023
+  },
+  {
+    "id": 1768457459872,
+    "name": "Aurora Hill South Central Barangay",
+    "district": "9",
+    "year": 2023
+  },
+  {
+    "id": 1768457486901,
+    "name": "Bagong Lipunan (Market Area) Barangay",
+    "district": "10",
+    "year": 2023
+  },
+  {
+    "id": 1768457501580,
+    "name": "Baguio Central School",
+    "district": "11",
+    "year": 2023
+  },
+  {
+    "id": 1768457518819,
+    "name": "Baguio City National High School",
+    "district": "12",
+    "year": 2023
+  },
+  {
+    "id": 1768457561816,
+    "name": "Bakakeng Central Barangay",
+    "district": "13",
+    "year": 2023
+  },
+  {
+    "id": 1768457617706,
+    "name": "Bakakeng Norte Barangay",
+    "district": "13",
+    "year": 2023
+  },
+  {
+    "id": 1768457637242,
+    "name": "Bal-Marcoville Barangay",
+    "district": "14",
+    "year": 2023
+  },
+  {
+    "id": 1768457649867,
+    "name": "Balsigan Barangay",
+    "district": "15",
+    "year": 2023
+  },
+  {
+    "id": 1768457671655,
+    "name": "Bayan Park East Barangay",
+    "district": "15",
+    "year": 2023
+  },
+  {
+    "id": 1768457688029,
+    "name": "Bayan Park West Barangay",
+    "district": "15",
+    "year": 2023
+  },
+  {
+    "id": 1768457909099,
+    "name": "BGH Compound Barangay",
+    "district": "15",
+    "year": 2023
+  },
+  {
+    "id": 1768457958045,
+    "name": "Brookside Barangay",
+    "district": "3",
+    "year": 2023
+  },
+  {
+    "id": 1768458002412,
+    "name": "Brookspoint Barangay",
+    "district": "4",
+    "year": 2023
+  },
+  {
+    "id": 1768458045172,
+    "name": "Cabinet Hill-Teacher’s Camp Barangay",
+    "district": "4",
+    "year": 2023
+  },
+  {
+    "id": 1768458056394,
+    "name": "Camp 7 Barangay",
+    "district": "5",
+    "year": 2023
+  },
+  {
+    "id": 1768458087735,
+    "name": "Camp 8 Barangay",
+    "district": "7",
+    "year": 2023
+  },
+  {
+    "id": 1768458153525,
+    "name": "Camp Allen Barangay",
+    "district": "5",
+    "year": 2023
+  },
+  {
+    "id": 1768458164604,
+    "name": "Camp John Hay Barangay",
+    "district": "7",
+    "year": 2023
+  },
+  {
+    "id": 1768458174834,
+    "name": "Camp One Barangay",
+    "district": "6",
+    "year": 2023
+  },
+  {
+    "id": 1768458194237,
+    "name": "Camp Three Barangay",
+    "district": "19",
+    "year": 2023
+  },
+  {
+    "id": 1768458651228,
+    "name": "San Carlos Heights Barangay",
+    "district": "13",
+    "year": 2023
+  },
+  {
+    "id": 1768458666362,
+    "name": "San Luis Village Barangay",
+    "district": "15",
+    "year": 2023
+  },
+  {
+    "id": 1768458675366,
+    "name": "San Roque Village Barangay",
+    "district": "6",
+    "year": 2023
+  },
+  {
+    "id": 1768458686354,
+    "name": "San Vicente Barangay",
+    "district": "9",
+    "year": 2023
+  },
+  {
+    "id": 1768458732232,
+    "name": "Santa Escolastica Barangay",
+    "district": "8",
+    "year": 2023
+  },
+  {
+    "id": 1768458746138,
+    "name": "Santo Rosario Barangay",
+    "district": "18",
+    "year": 2023
+  },
+  {
+    "id": 1768458772090,
+    "name": "Santo Rosario Barangay",
+    "district": "14",
+    "year": 2023
+  },
+  {
+    "id": 1768458785179,
+    "name": "Session Road Barangay",
+    "district": "16",
+    "year": 2023
+  },
+  {
+    "id": 1768458802676,
+    "name": "Slaughterhouse Barangay",
+    "district": "18",
+    "year": 2023
+  },
+  {
+    "id": 1768458818254,
+    "name": "South Drive Barangay",
+    "district": "12",
+    "year": 2023
+  },
+  {
+    "id": 1768458872266,
+    "name": "Teodora Alonzo Barangay",
+    "district": "7",
+    "year": 2023
+  },
+  {
+    "id": 1768458887607,
+    "name": "Trancoville Barangay",
+    "district": "8",
+    "year": 2023
+  },
+  {
+    "id": 1768458959760,
+    "name": "Upper Brookside Barangay",
+    "district": "1",
+    "year": 2023
+  },
+  {
+    "id": 1768458976659,
+    "name": "Upper Dagsian Barangay",
+    "district": "2",
+    "year": 2023
+  },
+  {
+    "id": 1768458989941,
+    "name": "Upper General Luna Barangay",
+    "district": "3",
+    "year": 2023
+  },
+  {
+    "id": 1768459525251,
+    "name": "San Carlos Heights Barangay",
+    "district": "13",
+    "year": 2024
+  },
+  {
+    "id": 1768459525252,
+    "name": "San Luis Village Barangay",
+    "district": "15",
+    "year": 2024
+  },
+  {
+    "id": 1768459525253,
+    "name": "San Vicente Barangay",
+    "district": "9",
+    "year": 2024
+  },
+  {
+    "id": 1768460007509,
+    "name": "Gibraltar Barangay",
+    "district": "18",
+    "year": 2024
+  },
+  {
+    "id": 1768460078497,
+    "name": "Greenwater Village Barangay",
+    "district": "5",
+    "year": 2024
+  },
+  {
+    "id": 1768460093376,
+    "name": "Guisad Central Barangay",
+    "district": "11",
+    "year": 2024
+  },
+  {
+    "id": 1768460118021,
+    "name": "Guisad Sorong Barangay",
+    "district": "11",
+    "year": 2024
+  },
+  {
+    "id": 1768460156434,
+    "name": "Happy Hollow Barangay",
+    "district": "19",
+    "year": 2024
+  },
+  {
+    "id": 1768460205675,
+    "name": "Harrison-Calle Uno Barangay",
+    "district": "5",
+    "year": 2024
+  },
+  {
+    "id": 1768460267112,
+    "name": "Hillside Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768460283246,
+    "name": "Holy Ghost Extension Barangay",
+    "district": "9",
+    "year": 2024
+  },
+  {
+    "id": 1768460296383,
+    "name": "Holy Ghost Proper Barangay",
+    "district": "9",
+    "year": 2024
+  },
+  {
+    "id": 1768460311848,
+    "name": "Imelda Marcos Barangay",
+    "district": "7",
+    "year": 2024
+  },
+  {
+    "id": 1768460365324,
+    "name": "Kagitingan Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768460384273,
+    "name": "Kayang Extension Barangay",
+    "district": "12",
+    "year": 2024
+  },
+  {
+    "id": 1768460400425,
+    "name": "Kayang Proper Barangay",
+    "district": "12",
+    "year": 2024
+  },
+  {
+    "id": 1768460411476,
+    "name": "Legarda-Burnham-Kisad Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768460435812,
+    "name": "Liwanag-Loakan Barangay",
+    "district": "7",
+    "year": 2024
+  },
+  {
+    "id": 1768460481782,
+    "name": "Loakan Proper Barangay",
+    "district": "16",
+    "year": 2024
+  },
+  {
+    "id": 1768460511199,
+    "name": "Lourdes Subdivision Extension Barangay",
+    "district": "7",
+    "year": 2024
+  },
+  {
+    "id": 1768460549893,
+    "name": "Lourdes Subdivision Proper Barangay",
+    "district": "7",
+    "year": 2024
+  },
+  {
+    "id": 1768460565017,
+    "name": "Lower Dagsian Barangay",
+    "district": "13",
+    "year": 2024
+  },
+  {
+    "id": 1768460577947,
+    "name": "Lower Rock Quarry Barangay",
+    "district": "12",
+    "year": 2024
+  },
+  {
+    "id": 1768460595294,
+    "name": "Lower San Luis Barangay",
+    "district": "17",
+    "year": 2024
+  },
+  {
+    "id": 1768460621562,
+    "name": "Lucnab Barangay",
+    "district": "20",
+    "year": 2024
+  },
+  {
+    "id": 1768460669840,
+    "name": "Magsaysay Private Road Barangay",
+    "district": "19",
+    "year": 2024
+  },
+  {
+    "id": 1768460686053,
+    "name": "Magsaysay Proper Barangay",
+    "district": "12",
+    "year": 2024
+  },
+  {
+    "id": 1768460699455,
+    "name": "Malcolm Square-Perfecto Barangay",
+    "district": "6",
+    "year": 2024
+  },
+  {
+    "id": 1768460732692,
+    "name": "Manuel Roxas Barangay",
+    "district": "14",
+    "year": 2024
+  },
+  {
+    "id": 1768460743251,
+    "name": "Market Subdivision Barangay",
+    "district": "13",
+    "year": 2024
+  },
+  {
+    "id": 1768460755126,
+    "name": "Middle Rock Quarry Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768460783757,
+    "name": "Military Cut-Off Barangay",
+    "district": "13",
+    "year": 2024
+  },
+  {
+    "id": 1768460794617,
+    "name": "Mines View Park Barangay",
+    "district": "7",
+    "year": 2024
+  },
+  {
+    "id": 1768460807209,
+    "name": "Modern Site (East) Barangay",
+    "district": "6",
+    "year": 2024
+  },
+  {
+    "id": 1768460819811,
+    "name": "Modern Site (West) Barangay",
+    "district": "6",
+    "year": 2024
+  },
+  {
+    "id": 1768460831156,
+    "name": "MRR-Queen of Peace Barangay",
+    "district": "7",
+    "year": 2024
+  },
+  {
+    "id": 1768460868279,
+    "name": "New Lucban Barangay",
+    "district": "12",
+    "year": 2024
+  },
+  {
+    "id": 1768460881701,
+    "name": "Outlook Drive Barangay",
+    "district": "4",
+    "year": 2024
+  },
+  {
+    "id": 1768460893836,
+    "name": "Pacdal Barangay",
+    "district": "7",
+    "year": 2024
+  },
+  {
+    "id": 1768460934640,
+    "name": "Padre Burgos Barangay",
+    "district": "15",
+    "year": 2024
+  },
+  {
+    "id": 1768460944997,
+    "name": "Padre Zamora Barangay",
+    "district": "15",
+    "year": 2024
+  },
+  {
+    "id": 1768460955552,
+    "name": "Phil-Am Barangay",
+    "district": "5",
+    "year": 2024
+  },
+  {
+    "id": 1768461006107,
+    "name": "Pinget Barangay",
+    "district": "6",
+    "year": 2024
+  },
+  {
+    "id": 1768461023494,
+    "name": "Pinsao Pilot Project Barangay",
+    "district": "9",
+    "year": 2024
+  },
+  {
+    "id": 1768461037338,
+    "name": "Pinsao Proper Barangay",
+    "district": "9",
+    "year": 2024
+  },
+  {
+    "id": 1768461069229,
+    "name": "Poliwes Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768461081080,
+    "name": "Pucsusan Barangay",
+    "district": "9",
+    "year": 2024
+  },
+  {
+    "id": 1768461124661,
+    "name": "Quezon Hill Extension Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768461162578,
+    "name": "Quezon Hill Proper Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768461173018,
+    "name": "Quirino Hill East Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768461182109,
+    "name": "Quirino Hill Lower Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768461193401,
+    "name": "Quirino Hill Middle Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768461214620,
+    "name": "Quirino Hill West Barangay",
+    "district": "8",
+    "year": 2024
+  },
+  {
+    "id": 1768461298625,
+    "name": "Rizal Monument Area Barangay",
+    "district": "7",
+    "year": 2024
+  },
+  {
+    "id": 1768461319989,
+    "name": "Rock Quarry Middle Barangay",
+    "district": "15",
+    "year": 2024
+  },
+  {
+    "id": 1768461331577,
+    "name": "Rock Quarry Upper Barangay",
+    "district": "15",
+    "year": 2024
+  },
+  {
+    "id": 1768461363388,
+    "name": "Saint Joseph Village Barangay",
+    "district": "9",
+    "year": 2024
+  },
+  {
+    "id": 1768461397699,
+    "name": "Salud Mitra Barangay",
+    "district": "14",
+    "year": 2024
+  },
+  {
+    "id": 1768461416058,
+    "name": "San Antonio Village Barangay",
+    "district": "16",
+    "year": 2024
+  },
+  {
+    "id": 1768461456909,
+    "name": "San Carlos Heights Barangay",
+    "district": "7",
+    "year": 2024
+  },
+  {
+    "id": 1768461474785,
+    "name": "San Luis Village Barangay",
+    "district": "9",
+    "year": 2024
+  },
+  {
+    "id": 1768461496959,
+    "name": "San Vicente Barangay",
+    "district": "10",
+    "year": 2024
+  },
+  {
+    "id": 1768472130717,
+    "name": "Scout Barrio Barangay",
+    "district": "12",
+    "year": 2023
+  },
+  {
+    "id": 1768488457647,
+    "name": "Irisan Barangay",
+    "district": "3",
+    "year": 2024
+  },
+  {
+    "id": 1768488750304,
+    "name": "Apugan-Loakan Barangay",
+    "district": "9",
+    "year": 2023
+  },
+  {
+    "id": 1768488750305,
+    "name": "Asin Road Barangay",
+    "district": "1",
+    "year": 2023
+  },
+  {
+    "id": 1768488750306,
+    "name": "Atok Trail Barangay",
+    "district": "4",
+    "year": 2023
+  },
+  {
+    "id": 1768488750307,
+    "name": "Aurora Hill North Central Barangay",
+    "district": "19",
+    "year": 2023
+  },
+  {
+    "id": 1768488750308,
+    "name": "Aurora Hill Proper Barangay",
+    "district": "15",
+    "year": 2023
+  },
+  {
+    "id": 1768488750309,
+    "name": "Aurora Hill South Central Barangay",
+    "district": "13",
+    "year": 2023
+  },
+  {
+    "id": 1768488750310,
+    "name": "Bagong Lipunan (Market Area) Barangay",
+    "district": "18",
+    "year": 2023
+  },
+  {
+    "id": 1768488750311,
+    "name": "Bakakeng Central Barangay",
+    "district": "11",
+    "year": 2023
+  },
+  {
+    "id": 1768488750312,
+    "name": "Bakakeng Norte Barangay",
+    "district": "1",
+    "year": 2023
+  },
+  {
+    "id": 1768488750313,
+    "name": "Bal-Marcoville Barangay",
+    "district": "8",
+    "year": 2023
+  },
+  {
+    "id": 1768488750314,
+    "name": "Balsigan Barangay",
+    "district": "9",
+    "year": 2023
+  },
+  {
+    "id": 1768488750315,
+    "name": "Bayan Park East Barangay",
+    "district": "7",
+    "year": 2023
+  },
+  {
+    "id": 1768488750316,
+    "name": "BGH Compound Barangay",
+    "district": "11",
+    "year": 2023
+  },
+  {
+    "id": 1768488750317,
+    "name": "Brookside Barangay",
+    "district": "16",
+    "year": 2023
+  },
+  {
+    "id": 1768488750318,
+    "name": "Brookspoint Barangay",
+    "district": "19",
+    "year": 2023
+  },
+  {
+    "id": 1768488750319,
+    "name": "Cabinet Hill-Teacher’s Camp Barangay",
+    "district": "15",
+    "year": 2023
+  },
+  {
+    "id": 1768488840283,
+    "name": "Camp 8 Barangay",
+    "district": "1",
+    "year": 2023
+  },
+  {
+    "id": 1768488840284,
+    "name": "Camp Allen Barangay",
+    "district": "6",
+    "year": 2023
+  },
+  {
+    "id": 1768488840285,
+    "name": "Camp Four Barangay",
+    "district": "7",
+    "year": 2023
+  },
+  {
+    "id": 1768488840286,
+    "name": "Camp One Barangay",
+    "district": "1",
+    "year": 2023
+  },
+  {
+    "id": 1768488840287,
+    "name": "Camp John Hay Barangay",
+    "district": "9",
+    "year": 2023
+  },
+  {
+    "id": 1768488840288,
+    "name": "Camp Three Barangay",
+    "district": "11",
+    "year": 2023
+  },
+  {
+    "id": 1768488840289,
+    "name": "Country Club Village Barangay",
+    "district": "12",
+    "year": 2023
+  },
+  {
+    "id": 1768488840290,
+    "name": "Cresencia Village Barangay",
+    "district": "5",
+    "year": 2023
+  },
+  {
+    "id": 1768488840291,
+    "name": "Dagsian Lower Barangay",
+    "district": "8",
+    "year": 2023
+  },
+  {
+    "id": 1768488840292,
+    "name": "Dontogan Barangay",
+    "district": "1",
+    "year": 2023
+  },
+  {
+    "id": 1768488840293,
+    "name": "Engineers Hill Barangay",
+    "district": "8",
+    "year": 2023
+  },
+  {
+    "id": 1768488840294,
+    "name": "Fairview Barangay",
+    "district": "9",
+    "year": 2023
+  },
+  {
+    "id": 1768488840295,
+    "name": "Ferdinand (Happy Homes-Campo Sioco) Barangay",
+    "district": "1",
+    "year": 2023
+  },
+  {
+    "id": 1768488840296,
+    "name": "Fort del Pilar Barangay",
+    "district": "15",
+    "year": 2023
+  },
+  {
+    "id": 1768488840297,
+    "name": "Gabriela Silang Barangay",
+    "district": "16",
+    "year": 2023
+  },
+  {
+    "id": 1768488840298,
+    "name": "General Emilio F. Aguinaldo Barangay",
+    "district": "17",
+    "year": 2023
+  },
+  {
+    "id": 1768488840299,
+    "name": "General Luna Barangay",
+    "district": "20",
+    "year": 2023
+  },
+  {
+    "id": 1768488840300,
+    "name": "Gibraltar Barangay",
+    "district": "18",
+    "year": 2023
+  },
+  {
+    "id": 1768488840301,
+    "name": "Greenwater Village Barangay",
+    "district": "1",
+    "year": 2023
+  },
+  {
+    "id": 1768488840302,
+    "name": "Guisad Central Barangay",
+    "district": "6",
+    "year": 2023
+  },
+  {
+    "id": 1768488840303,
+    "name": "Guisad Sorong Barangay",
+    "district": "18",
+    "year": 2023
+  },
+  {
+    "id": 1768488840304,
+    "name": "Happy Hollow Barangay",
+    "district": "12",
+    "year": 2023
+  },
+  {
+    "id": 1768488840305,
+    "name": "Harrison-Calle Uno Barangay",
+    "district": "2",
+    "year": 2023
+  },
+  {
+    "id": 1768488840306,
+    "name": "Hillside Barangay",
+    "district": "9",
+    "year": 2023
+  },
+  {
+    "id": 1768488840307,
+    "name": "Holy Ghost Extension Barangay",
+    "district": "12",
+    "year": 2023
+  },
+  {
+    "id": 1768488840308,
+    "name": "Imelda Marcos Barangay",
+    "district": "20",
+    "year": 2023
+  },
+  {
+    "id": 1768488840309,
+    "name": "Irisan Barangay",
+    "district": "19",
+    "year": 2023
+  },
+  {
+    "id": 1768579644972,
+    "name": "General Luna Barangay",
+    "district": "20",
+    "year": 2024
+  },
+  {
+    "id": 1768579644973,
+    "name": "Gibraltar Barangay",
+    "district": "18",
+    "year": 2024
+  },
+  {
+    "id": 1768579644974,
+    "name": "Greenwater Village Barangay",
+    "district": "1",
+    "year": 2024
+  },
+  {
+    "id": 1768579644975,
+    "name": "Guisad Central Barangay",
+    "district": "6",
+    "year": 2024
+  },
+  {
+    "id": 1768579644976,
+    "name": "Guisad Sorong Barangay",
+    "district": "18",
+    "year": 2024
+  },
+  {
+    "id": 1768579644977,
+    "name": "Happy Hollow Barangay",
+    "district": "12",
+    "year": 2024
+  },
+  {
+    "id": 1768579644978,
+    "name": "Harrison-Calle Uno Barangay",
+    "district": "2",
+    "year": 2024
+  },
+  {
+    "id": 1768579644979,
+    "name": "Hillside Barangay",
+    "district": "9",
+    "year": 2024
+  },
+  {
+    "id": 1768579644980,
+    "name": "Holy Ghost Extension Barangay",
+    "district": "12",
+    "year": 2024
+  },
+  {
+    "id": 1768579644981,
+    "name": "Imelda Marcos Barangay",
+    "district": "20",
+    "year": 2024
+  },
+  {
+    "id": 1768579644982,
+    "name": "Irisan Barangay",
+    "district": "19",
+    "year": 2024
+  },
+  {
+    "id": 1768581401680,
+    "name": "Abanao-Zandueta-Kayong-Chugum Barangay",
+    "district": "2",
+    "year": 2024
+  }
+]

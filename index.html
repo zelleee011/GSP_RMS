@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>GSP Membership Management</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.sheetjs.com/xlsx-latest/package/dist/xlsx.full.min.js"></script>
+</head>
+<body>
+<!-- Notification Container for automatic popups -->
+<div id="notification-container"></div>
+
+<div id="login-container"></div>
+<div class="container" id="app-container" style="display:none;">
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <img src="gsp-logo.png" alt="GSP Logo" class="sidebar-logo">
+            <h2>GSP Baguio</h2>
+        </div>
+        <nav class="sidebar-nav">
+            <ul>
+                <li><a href="#" onclick="showSection('dashboard')">Dashboard</a></li>
+                <li><a href="#" onclick="showSection('schools')">Schools</a></li>
+                <li><a href="#" onclick="showSection('communities')">Communities</a></li>
+                <li class="has-submenu" id="troop-menu-item">
+                    <a href="#" onclick="toggleTroopSubmenu(event)">Troops</a>
+                    <ul class="sidebar-submenu" id="troop-submenu">
+                        <li><a href="#" onclick="showTroopList('School Based')">School Based</a></li>
+                        <li><a href="#" onclick="showTroopList('Community Based')">Community Based</a></li>
+                    </ul>
+                </li>
+                <li><a href="#" onclick="showSection('members')">Members</a></li>
+                <hr class="sidebar-divider">
+                <li><a href="#" onclick="showSection('settings')">Settings</a></li>
+                <li><a href="#" onclick="handleLogout()">Logout</a></li>
+            </ul>
+        </nav>
+    </aside>
+    <main class="main-content" id="main-content"></main>
+</div>
+<script src="script.js"></script>        
+</body>
+</html>
